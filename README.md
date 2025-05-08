@@ -103,6 +103,24 @@ Definições idênticas às da Nota Técnica oficial do Painel CNPq citetu
 | `Bolsa/Ano_*`       | Valor financeiro associado às bolsas‑ano.                                       |
 | `Auxílio/Ano_*`     | Valor financeiro de auxílios vinculados a ICJ.                                  |
 
+
+---
+#### Detalhamento das Métricas de Fomento (ICJ)
+| Coluna               | O que representa no Painel de Fomento | Cálculo após agregação | Sugestão de uso |
+|----------------------|---------------------------------------|------------------------|-----------------|
+| **Qtd_Bolsistas**    | Número de registros de bolsistas ICJ (cada linha = 1 bolsista‑modalidade) | Contagem (**size**) das linhas do município‑ano | Indicador de escala (quantidade de bolsistas atendidos) |
+| **Valor_Rs_sum** / **Valor_RS_mean** | Valor pago em reais (corrente) a bolsistas ICJ | Soma total dos pagamentos (**sum**) / média aritmética (**mean**) | Volume financeiro total ou valor médio por bolsista |
+| **Valor_USS_sum** / **Valor_USS_mean** | Mesma lógica em dólares americanos (câmbio anual oficial do CNPq) | idem | Análises comparativas internacionais |
+| **Benef_Modal/Ano_sum** / **…_mean** | *Beneficiário‑Modalidade‑Ano* = número de CPFs distintos por modalidade que receberam ≥1 pagamento no ano | Soma de beneficiários ou média entre linhas | Comparar diversidade de modalidades financiadas |
+| **Bolsa/Ano_sum** / **…_mean** | *Bolsa‑Ano* = total de mensalidades pagas ÷ 12 | Soma ou média de bolsas‑ano equivalentes | Estimar “cotas” integrais financiadas |
+| **Auxílio/Ano_sum** / **…_mean** | *Auxílio* = nº de processos com pagamentos de auxílio | Soma ou média de auxílios concedidos | Medir apoio complementar (auxílios) |
+
+> **Nota sobre _mean vs _sum**  
+> ‑ **_sum** corresponde ao volume total do indicador para o município‑ano.  
+> ‑ **_mean** suaviza diferenças de escala, útil para comparar valores típicos entre municípios.
+
+
+
 ### 4.3 Indicadores de Educação Básica (EB)
 
 | Coluna                 | Definição                                              |
@@ -157,4 +175,9 @@ Repositório GitHub:
 1. https://github.com/tiago15anjos?tab=repositories#:~:text=ICJ_Painel_Fomento_2008_2024
 2. https://github.com/tiago15anjos?tab=repositories#:~:text=Agrega%2Do_ICJ_2010_2023
 3. https://github.com/tiago15anjos/DataSat_Unificado_Final
+
+
+
+
+
 

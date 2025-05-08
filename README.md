@@ -152,6 +152,9 @@ Definições idênticas às da Nota Técnica oficial do Painel CNPq citetu
 ## 8. Contato
 
 Dúvidas ou sugestões:\
-*Tiago Ribeiro dos Anjos* — [tiago.r.anjos@ufscar.br](mailto\:tiago.r.anjos@ufscar.br)\
-Repositório GitHub: [https://github.com/tiagoanjos/Agregacao\_ICJ\_2010\_2023](https://github.com/tiagoanjos/Agregacao_ICJ_2010_2023)
+*Tiago Ribeiro dos Anjos* — [tiago.r.anjos@ufscar.br](mailto\:tiago.anjos@ufscar.br)\
+Repositório GitHub: 
+1. https://github.com/tiago15anjos?tab=repositories#:~:text=ICJ_Painel_Fomento_2008_2024
+2. https://github.com/tiago15anjos?tab=repositories#:~:text=Agrega%2Do_ICJ_2010_2023
+3. https://github.com/tiago15anjos/DataSat_Unificado_Final
 

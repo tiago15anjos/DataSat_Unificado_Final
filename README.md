@@ -1,6 +1,6 @@
 # Nota Técnica – Construção do Dataset Unificado **ICJ + Educação** (2010‑2023)
 
-> Versão 1.0 — Abril 2025\
+> Versão 1.0 — Abril e Maio 2025\
 > Elaborado por: Tiago Ribeiro dos Anjos
 
 ---
@@ -9,7 +9,7 @@
 
 Esta Nota Técnica documenta integralmente o processo de extração, tratamento e integração de quatro bases públicas — financiamento do CNPq (Iniciação Científica Júnior) e estatísticas educacionais do INEP —, resultando na tabela ``. O arquivo consolida indicadores de fomento à ciência, matrículas da educação básica, matrículas do ensino superior e formação docente **por município e ano** (2010‑2023).
 
-A estrutura segue o modelo de Notas Técnicas do *Painel de Fomento em Ciência, Tecnologia e Inovação* do CNPq citeturn1file0, garantindo transparência metodológica e reprodutibilidade.
+A estrutura segue o modelo de Notas Técnicas do *Painel de Fomento em Ciência, Tecnologia e Inovação* do CNPq, garantindo transparência metodológica e reprodutibilidade.
 
 ---
 

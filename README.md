@@ -39,7 +39,7 @@ Todas as planilhas foram obtidas em formato `.xlsx` diretamente nos portais ofi
 2. **Agrupamento** pelas dimensões `Regiao_Geografica, Unidade_Federacao, Nome_Municipio, Codigo_IBGE, Ano, Sigla_UF, Pais` ⇒ criação da tabela‑fato **ICJ\_Municipio\_Ano\_2010\_2023.xlsx** contendo:
    - `Qtd_Bolsistas` (contagem de linhas);
    - médias e somatórios de `Valor_Rs`, `Valor_USS`, `Benef_Modal/Ano`, `Bolsa/Ano`, `Auxílio/Ano`.
-3. **Validação pontual** (conferência manual para Lorena/SP 2010, etc.).
+
 
 ### 3.3. Tratamento das bases INEP
 
@@ -170,7 +170,7 @@ Definições idênticas às da Nota Técnica oficial do Painel CNPq citetu
 ## 8. Contato
 
 Dúvidas ou sugestões:\
-*Tiago Ribeiro dos Anjos* — [tiago.r.anjos@ufscar.br](mailto\:tiago.anjos@ufscar.br)\
+*Tiago Ribeiro dos Anjos* — [tiago.anjos@ufscar.br](mailto\:tiago.anjos@ufscar.br)\
 Repositório GitHub: 
 1. https://github.com/tiago15anjos?tab=repositories#:~:text=ICJ_Painel_Fomento_2008_2024
 2. https://github.com/tiago15anjos?tab=repositories#:~:text=Agrega%2Do_ICJ_2010_2023
